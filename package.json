@@ -1,0 +1,14 @@
+{
+  "name": "i3logix",
+  "version": "1.0.0",
+  "description": "Code Challenge for i3logix",
+  "main": "convertIntToString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "number-string-representation": "^0.1.9"
+  }
+}
