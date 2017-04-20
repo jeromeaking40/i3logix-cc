@@ -41,8 +41,7 @@ let ones = [
 ];
 
 function ConvertToHundreds(num) { //Passing 105 as arguement when calling function later...
-  let changeNum,
-    newNum;
+  let changeNum, newNum;
   let words = '';
   num %= 1000;
   // console.log('Before conditional the number is', num);
